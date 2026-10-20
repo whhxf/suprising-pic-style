@@ -1,0 +1,19 @@
+# 参考图：版权归原笔记作者，不入库
+examples/reference/*.jpg
+examples/reference/*.png
+examples/reference/*.webp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 出图产物
+output/
+runs/
+*-clean.png
