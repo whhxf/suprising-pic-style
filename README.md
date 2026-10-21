@@ -148,6 +148,8 @@ prompts/                     八份人读的提示词文档
 scripts/strip_watermark.py   裁水印 / 裁出血框
 scripts/check_styles.py      校验 styles.json 结构
 scripts/collect_cases.py     定期采集爆款案例（需要本机 CDP 环境）
+scripts/compare_cases.py     对比两个月案例库，看原型分布有没有变
+scripts/structure_check.py   图文结构机检：图数 / 正文长度 / 标题 / 收藏动机
 docs/风格库.md               封面风格的完整调研记录
 docs/内容结构拆解.md          封面之外：标题 / 内页 / 正文怎么组，才叫爆款
 cases/2026-10/               按月归档的爆款案例元数据（不存图）
